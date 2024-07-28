@@ -1,0 +1,14 @@
+.parent{
+    display: flex;
+}
+
+.content{
+    text-align: center;
+}
+
+.icon i{
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 15px;
+    border-radius: 50%;
+}
